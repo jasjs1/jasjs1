@@ -10,7 +10,7 @@ Skills: Lua / Some TypeaScript
 
 ## Skills and Experience
 
-Started programming: July 2022
+Started programming: May 2022
 
 * 📶 Web Development (~1w)
 * 💻 Java (~5d)
