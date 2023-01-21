@@ -24,7 +24,7 @@ Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jSagvold28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaycesagvold2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/TECH102020)  
 
 
-What I do on my socials:
+### What I do on my socials:
 
 - Twitter: Tweet about Tech, Apple, Tesla, retweet a lot of stuff
 - Reddit: Ask questons about tech, programming (not to active)
