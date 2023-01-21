@@ -26,6 +26,6 @@ Socials:
 
 What I do on my socials:
 
-Twitter: Tweet about Tech, Apple, Tesla, retweet a lot of stuff
-Reddit: Ask questons about tech, programming (not to active)
-GitHub: Put my code to the public eye to see
+*Twitter: Tweet about Tech, Apple, Tesla, retweet a lot of stuff
+*Reddit: Ask questons about tech, programming (not to active)
+*GitHub: Put my code to the public eye to see
