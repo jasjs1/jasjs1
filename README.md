@@ -8,7 +8,7 @@ Skills: Lua / Some TypeaScript
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Past Skills and Experience
+## Skills and Experience
 
 Started programming: July 2022
 
