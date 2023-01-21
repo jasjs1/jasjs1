@@ -1,35 +1,9 @@
 ### Hi there 👋, i'm Jayce
 #### Lua Developer
 
-I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoyig learning diffrent things about programing and becoming a better developer.
+I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer.
 
-Skills: Lua / Some TypeaScript
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Skills and Experience
-
-Started programming: May 2022
-
-* 📶 Web Development (~1w)
-* 💻 Java (~5d)
-* 🎮 Game Development (3mo)
-*📱 iOS Development (4mo)
-* ✅ Currently - Lua (January 2nd - present)
-
-
-## Socials:
-### Go fallow me: ⬇️
-
-Code save:
-
-### Hi there 👋, i'm Jayce
-#### Lua Developer
-
-I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoyig learning diffrent things about programing and becoming a better developer.
-
-Skills: Lua / Some TypeaScript
+Skills: Lua / Some TypeScript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,14 +28,5 @@ Started programming: May 2022
 ### What I do on my socials:
 
 - Twitter: Tweet about Tech, Apple, Tesla, retweet a lot of stuff
-- Reddit: Ask questons about tech, programming (not to active)
-- GitHub: Put my code to the public eye to see
-
-
-
-
-### What I do on my socials:
-
-- Twitter: Tweet about Tech, Apple, Tesla, retweet a lot of stuff
-- Reddit: Ask questons about tech, programming (not to active)
+- Reddit: Ask questions about tech, programming (not to active)
 - GitHub: Put my code to the public eye to see
