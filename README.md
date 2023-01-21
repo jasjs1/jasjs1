@@ -13,6 +13,7 @@ Skills: Lua / Some TypeaScript
 Started programming: July 2022
 
 * 📶 Web Development (~1w)
+* 💻 Java (~5d)
 * 🎮 Game Development (3mo)
 *📱 iOS Development (4mo)
 * ✅ Currently - Lua (January 2nd - present)
