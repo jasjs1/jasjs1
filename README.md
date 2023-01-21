@@ -1,3 +1,4 @@
+![Lua Developer] (https://github.com/jSagvold28/jSagvold28/blob/main/Jayce%20Sagvold.png)
 ### Hi there 👋, my name is Jayce
 #### Lua Developer
 
