@@ -8,5 +8,7 @@ Skills: Lua / Some TypeaScript
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 
 
+Socials:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jSagvold28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaycesagvold2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/TECH102020)  
 
