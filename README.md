@@ -15,11 +15,11 @@ I'm Jayce and I am a Lua programmer I like to make applications that are based i
 
 Started programming: May 2022
 
-* 📶 Web Development (~1w)
-* 💻 Java (~5d)
-* 🎮 Game Development (3mo)
-*📱 iOS Development (4mo)
-* ✅ Currently - Lua (January 2nd - present)
+- 📶 Web Development (~1w)
+- 💻 Java (~5d)
+- 🎮 Game Development (3mo)
+-📱 iOS Development (4mo)
+- ✅ Currently - Lua (January 2nd - present)
 
 
 ## Socials:
