@@ -3,7 +3,10 @@
 
 I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer.
 
-Skills: Lua / Some TypeScript
+# Skills
+- Lua
+- iOS Development
+- Roblox Game Development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 
