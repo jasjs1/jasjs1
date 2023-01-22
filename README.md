@@ -11,7 +11,7 @@ I'm Jayce and I am a Lua programmer I like to make applications that are based i
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Skills and Experience
+## Past Skills and Experience
 
 Started programming: May 2022
 
