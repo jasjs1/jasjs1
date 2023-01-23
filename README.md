@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Jayce
 #### Lua Developer
+#### Big fan of open source projects
 
-I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer.
+I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer. 
 
 # Skills
 - Lua
