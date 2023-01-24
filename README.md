@@ -14,7 +14,15 @@ I'm Jayce and I am a Lua programmer I like to make applications that are based i
 
 
 ```
-test
+local README = file
+local readmeContents = readme.md 
+local input = io.read()
+
+if input == "Run The README.md then
+
+print(readmeContents)
+
+end
 ````
 
 ## Past Skills and Experience
