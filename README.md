@@ -4,10 +4,8 @@
 
 I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer. 
 
-## Programming Skills
-- Lua
-- iOS Development
-- Roblox Game Development
+## Current Programming Skills
+- Lua for console based applications
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,10 +13,10 @@ I'm Jayce and I am a Lua programmer I like to make applications that are based i
 ## Past Skills & Experience
 Started programming: May 2022
 
-- 📶 Web Development (~1w)
+- 📶 Web Development HTML, JavaScript (~1w)
 - 💻 Java (~5d)
-- 🎮 Game Development (3mo)
--📱 iOS Development (4mo)
+- 🎮 Roblox Game Development using Lua (3mo)
+-📱 iOS Development using SwiftUI (4mo)
 - ✅ Currently - Lua (January 2nd - present)
 
 ### Socials:
