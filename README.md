@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Jayce
 #### Lua Developer
-
-
-I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer. 
+Hi I am Jayce Sagvold, I am a Lua console based app developer. I love learning new things, especally about programming. My dream tech comapanies to work for is Microsoft, Apple, or Tesla. Also,
 
 ## Current Programming Skills
 - Lua for console based applications
