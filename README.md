@@ -4,7 +4,7 @@
 
 I'm Jayce and I am a Lua programmer I like to make applications that are based in the console. I am enjoying learning different things about programing and becoming a better developer. 
 
-### Skills
+## Programming Skills
 - Lua
 - iOS Development
 - Roblox Game Development
