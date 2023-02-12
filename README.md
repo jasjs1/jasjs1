@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jayce
 #### Lua Developer
 
-Hi! I'm Jayce and I am a Lua console based applicaiton developer. I put all of my projects that I work on on GitHub! Go take a look around. I love to learn new things about programming, like framweorks, and new ways to make my code more efficent. I would love to work for Microsoft, Tesla, or Apple when I get older. 
+Hi! I'm Jayce and I am a Lua console based applicaiton developer. I put all of my projects that I work on on GitHub! Go take a look around. I love to learn new things about programming, like framweorks, and new ways to make my code more efficent. I would love to work for Microsoft, Tesla, Neeva, or Apple when I get older. 
 
 ## Current Programming Skills
 - Lua for console based applications
