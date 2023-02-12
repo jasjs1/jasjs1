@@ -7,7 +7,7 @@ Hi! I'm Jayce and I am a Lua console based applicaiton developer. I put all of m
 - Lua for console based applications
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jSagvold28=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimejSagvold28=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Past Skills & Experience
 Started programming: May 2022
