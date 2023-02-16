@@ -8,6 +8,7 @@ Hi! I'm Jayce and I am a Lua console based applicaiton developer. I put all of m
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jSagvold28)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jSagvold28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jSagvold28&theme=light)](https://git.io/streak-stats)
 
 ## Past Skills & Experience
 Started programming: May 2022
