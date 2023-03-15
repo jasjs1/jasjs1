@@ -16,11 +16,11 @@ Hi! I'm Jayce and I am a Lua console based applicaiton developer. I put all of m
 ## Past Skills & Experience
 Started programming: May 2022
 
-- 📶 Web Development HTML, JavaScript (~1w)
-- 💻 Java (~5d)
-- 🎮 Roblox Game Development using Lua (3mo)
--📱 iOS Development using SwiftUI (4mo)
-- ✅ Currently - Lua (January 2nd - present)
+* 📶 Web Development HTML, JavaScript (~1w)
+* 💻 Java (~5d)
+* 🎮 Roblox Game Development using Lua (3mo)
+* 📱 iOS Development using SwiftUI (4mo)
+* ✅ Currently - Lua (January 2nd - present)
 
 ### Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jSagvold28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaycesagvold2)  
