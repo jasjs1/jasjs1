@@ -4,8 +4,8 @@ Im Jayce and I'm another dude that codes. What do I code, I code CLI apps in Lua
 
 I hope that you find some intreseting work on this GitHub Profile.
 
-Peace ✌️
-
--- Socials
+=== Socials ===
 
 Twitter: JayceSagvold2
+
+Peace ✌️
