@@ -1,11 +1,7 @@
 # Hey 👋 nice to meet you!
 
-Im Jayce and I'm another dude that codes. What do I code, I code CLI apps in Lua. Also, make websites in HTML, CSS and JavaScript. I have been programming since May 2022. And I went open source early Novemeber of 2022. 
+Hey, I'm Jayce I am a aspring software engineer! I am currently working on making websites in HTML, CSS, and JavaScript. I have a pasion for technoligy, coding, Tesla's, and most things tech related.
 
-I hope that you find some intreseting work on this GitHub Profile.
-
-=== Socials ===
-
-Twitter: JayceSagvold2
+Hope that you find some intresting work on this profile!
 
 Cheers ✌️
