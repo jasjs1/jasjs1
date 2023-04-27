@@ -8,4 +8,4 @@ I hope that you find some intreseting work on this GitHub Profile.
 
 Twitter: JayceSagvold2
 
-Peace ✌️
+Cheers ✌️
