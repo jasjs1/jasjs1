@@ -1,7 +1,6 @@
 # Hey 👋 nice to meet you!
 
-Hey, I'm Jayce I am a aspring software engineer! I am currently working on making websites in HTML, CSS, and JavaScript. I have a pasion for technology, coding, Tesla's, and most things tech related.
+Hey, I'm Jayce. I work on FontFlex and make my own iOS apps. For the iOS apps, I am using Swift & SwiftUI. For the websites, I am using HTML, CSS, and JS.
 
-Hope that you find some intresting work on this profile!
+I hope that you find some interesting work on this profile.
 
-Cheers ✌️
