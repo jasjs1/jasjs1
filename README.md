@@ -18,8 +18,17 @@
 
 <div align="left">
   
-[<img src="[https://streak-stats.demolab.com?user=jasjs1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3](https://github.com/jasjs1/jasjs1/blob/main/Assets/CSS3_logo.svg.png)" height="20" alt="streak graph" />](https://github.com/jasjs1/jasjs1/blob/main/Assets/CSS3_logo.svg.png)
-</div>
+* HTML
+* CSS
+* TailwindCSS
+* JavaScript
+* Markdown
+* Swift
+* SwiftUI
+* GitHub
+* GitHub Projects
+* Figma
+* Canva
 
 ###
 
