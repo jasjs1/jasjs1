@@ -22,15 +22,5 @@
 
 <div align="left">
   
-* HTML
-* CSS
-* TailwindCSS
-* JavaScript
-* Markdown
-* Swift
-* SwiftUI
-* GitHub
-* GitHub Projects
-* Figma
-* Canva
+
 
